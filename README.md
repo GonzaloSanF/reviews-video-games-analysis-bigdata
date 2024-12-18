@@ -1,3 +1,7 @@
+
+## Mirar el proyecto, esto es lo que teóricamente hubiera habido de no habernos topado con errores persistentes estos dias al crear el cluster y no dar con ello.
+## En el bucket Errores hay una explicación y capturas de ello.
+
 # README - Proyecto Big Data y Cloud Computing
 
 ## 1. Descripción del problema
